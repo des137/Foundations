@@ -1,5 +1,5 @@
 # Data Science Foundations
-This repository contains a set of jupyter notebooks covering the core concepts of **Statistics** and **Machine Learning**. I have decided to go through each chapter of the book titled 'Statistics and Machine Learning in Python' (by Edouard Duchesnay and Tommy Löfstedt). It is a wonderful book in teaching the reader all the fundamental concepts necessary to tackle interesting projects in data science and machine learning using python. 
+This repository contains a set of jupyter notebooks covering the core concepts of **Statistics** and **Machine Learning**. These notes follow the book titled 'Statistics and Machine Learning in Python' (by Edouard Duchesnay and Tommy Löfstedt). It is a wonderful book which introduces fundamental concepts necessary to tackle interesting projects in data science and machine learning using python. 
 
 ## List of topics:
   1. Introduction to Machine Learning
