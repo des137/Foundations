@@ -1,10 +1,8 @@
 # Data Science Foundations
-This repository contains a set of jupyter notebooks covering the core concepts of **Statistics** and **Machine Learning**. 
+My summary notes covering the core concepts of **Statistics** and **Machine Learning**. 
 
 ## Summary:
   ### Introduction to Machine Learning
-  * Some text
-  * Some more text
   ### Python Language
   ### Numpy: arrays and matrices
   ### Pandas: data manipulation
