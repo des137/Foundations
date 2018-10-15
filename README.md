@@ -2,11 +2,11 @@
 My summary notes covering the core concepts of **Statistics** and **Machine Learning**. 
 
 ## Summary:
-  ### Introduction to Machine Learning
-  ### Python Language
-  ### Numpy: arrays and matrices
-  ### Pandas: data manipulation
-  ### Matplotlib: data visualization
+  * Introduction to Machine Learning
+  * Python Language
+  * Numpy: arrays and matrices
+  * Pandas: data manipulation
+  * Matplotlib: data visualization
   ### Univariate statistics
   ### Multivariate statistics
   ### Dimension reduction and feature reduction
