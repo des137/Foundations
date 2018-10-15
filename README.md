@@ -2,14 +2,14 @@
 This repository contains a set of jupyter notebooks covering the core concepts of **Statistics** and **Machine Learning**. 
 
 ## Summary:
-  1. Introduction to Machine Learning
+  ### Introduction to Machine Learning
   * Some text
   * Some more text
-  2. Python Language
-  3. Numpy: arrays and matrices
-  4. Pandas: data manipulation
-  5. Matplotlib: data visualization
-  6. Univariate statistics
+  ### Python Language
+  ### Numpy: arrays and matrices
+  ### Pandas: data manipulation
+  ### Matplotlib: data visualization
+  ### Univariate statistics
   7. Multivariate statistics
   8. Dimension reduction and feature reduction
   9. Clustering
